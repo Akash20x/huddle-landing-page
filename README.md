@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/huddle-landing-page-S1rp1J7H5
+- Live Site URL: https://akash20x.github.io/huddle-landing-page/
 
 ## My process
 
