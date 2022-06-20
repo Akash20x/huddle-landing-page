@@ -94,11 +94,15 @@ footer .social-media-container {
 }
 
 footer .social-media-container i {
+  display: flex;
   border: 1px solid white;
   border-radius: 50%;
   font-size: 1.2rem;
-  padding: 8px;
+  width: 2.5rem;
+  height: 2.5rem;
   color: white;
+  justify-content: center;
+  align-items: center;
 }
 
 footer .social-media-container i:hover {
